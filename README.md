@@ -49,8 +49,6 @@ Pour les TPs sur caméra JeVois, se référer à la [documentation officielle Je
 
 ```bash
 git clone https://github.com/Gery-Charles/VisionEmbarquee.git
-cd VisionEmbarquee/TP1
-python tp1.py
 ```
 ### Exemple pour le TP1 :
 ```bash
